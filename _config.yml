@@ -4,7 +4,7 @@ author: "chisaipete"
 description:
   "A searchable D&D 5e creature list."
 baseurl: "/bestiary" # the subpath of your site, e.g. /blog/
-url: "https://master.dtbsppv8fb8p8.amplifyapp.com/" # the base hostname & protocol for your site
+url: "https://bestiary.saguinus.net/" # the base hostname & protocol for your site
 source-url: "https://github.com/gabgla/bestiary/"
 permalink: "/:categories/:title"
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
